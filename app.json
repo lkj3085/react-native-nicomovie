@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "pratice-movie",
+    "slug": "pratice-movie",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "pratice-movie"
+}
