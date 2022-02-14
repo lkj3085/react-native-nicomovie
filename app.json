@@ -3,9 +3,8 @@
     "name": "pratice-movie",
     "slug": "pratice-movie",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": ["**/*"]
   },
   "name": "pratice-movie"
 }
